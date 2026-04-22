@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+
+# Training outputs
+stgcn_transformer_cross_val_experiment_results_*/
+explainability_preview_*/
+
+# OS/IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
